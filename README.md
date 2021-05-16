@@ -1,0 +1,5 @@
+# sql_challange
+screen shot image file of ERD
+SQL FILE OF TABLE SCHEMATA
+FILE OF QUERIES
+OPTIONAL BONUS ANALYSIS
